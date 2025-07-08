@@ -1,0 +1,52 @@
+{
+    "P001": {
+        "name": "Ali Khan",
+        "city": "Lahore",
+        "age": 28,
+        "gender": "Male",
+        "height": 1.75,
+        "weight": 70,
+        "bmi": 22.86,
+        "verdict": "Normal"
+    },
+    "P002": {
+        "name": "Fatima Zahra",
+        "city": "Karachi",
+        "age": 34,
+        "gender": "Female",
+        "height": 1.62,
+        "weight": 85,
+        "bmi": 32.39,
+        "verdict": "Obese"
+    },
+    "P003": {
+        "name": "Umer Farooq",
+        "city": "Islamabad",
+        "age": 45,
+        "gender": "Male",
+        "height": 1.68,
+        "weight": 92,
+        "bmi": 32.62,
+        "verdict": "Obese"
+    },
+    "P004": {
+        "name": "Ayesha Malik",
+        "city": "Faisalabad",
+        "age": 22,
+        "gender": "Female",
+        "height": 1.60,
+        "weight": 50,
+        "bmi": 19.53,
+        "verdict": "Normal"
+    },
+    "P005": {
+        "name": "Saad Mehmood",
+        "city": "Peshawar",
+        "age": 30,
+        "gender": "Male",
+        "height": 1.80,
+        "weight": 105,
+        "bmi": 32.41,
+        "verdict": "Obese"
+    }
+}

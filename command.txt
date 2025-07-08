@@ -1,0 +1,5 @@
+python -m venv venv
+Set-ExecutionPolicy Unrestricted -Scope Process
+fastvenv/Scripts/Activate
+
+uvicorn Patients_2.main:app --reload

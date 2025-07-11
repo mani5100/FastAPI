@@ -3,4 +3,3 @@ This includes:
 1. Use of Get in FastAPI.
 2. Use of Path and Query Class.
 3. Use of HTTPException Class.
-4. 
